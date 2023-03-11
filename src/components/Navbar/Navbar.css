@@ -12,8 +12,7 @@
 .button-home{
   height: 2.5rem;
   border-radius: 0rem;
-  border-top: none;
-  border-bottom: none;
+  border: none;
   margin-left: 2rem;
 }
 
@@ -24,8 +23,7 @@
 .button-login, .button-booking, .button-info {
   height: 2.5rem;
   border-radius: 0rem;
-  border-top: none;
-  border-bottom: none;
+  border: none;
   font-family: 'Roboto Slab', serif;
   
 }

@@ -10,10 +10,11 @@ const Header = () => {
       <div className="header-title">
         <p>PIZZA PALACE</p>
       </div>
-      <div className="header-wp bg-secondary">
-      <button type="button" class="button-wp btn btn-secondary">
-        <i className="bi bi-whatsapp"></i>
-      </button>          
+      <div className="header-wp bg-dark">
+      <button type="button" className="button-wp btn     btn-outline-secondary text-light">
+      <i className="bi bi-whatsapp"></i>
+      </button>
+               
       </div>    
     </div>
   )
