@@ -1,13 +1,14 @@
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
-import React from "react";
 import Header from "./components/Header/Header";
+import Landing from "./pages/Landing";
+
 
 function App() {
   return (
     <Router>
       <Header />
       <Routes>
-        <Route>
+        <Route path="/" element={<Landing />} />
 
 
 
@@ -16,7 +17,8 @@ function App() {
 
 
 
-        </Route>
+
+        
 
       </Routes>
 

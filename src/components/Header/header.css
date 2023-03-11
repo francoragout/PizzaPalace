@@ -1,0 +1,41 @@
+.header {
+  height: 6rem;
+  padding: 0rem;
+  display: flex;
+}
+
+.header-logo {
+  height: 6rem;
+  width: 6rem;
+  margin-left: 2rem;
+}
+
+.header-title {
+  height: 6rem;
+  display: flex;
+  margin-left: 2rem;
+  font-family: 'Antonio', sans-serif;
+  color: white;
+  font-size: 3rem;
+  margin-top: 0.6rem;
+}
+
+.header-wp {
+  height: 2.5rem;
+  width: 2.5rem;
+  margin-left: auto;
+  display: flex;
+  align-self: flex-start;
+  margin-right: 2rem;
+}
+
+.wp-btn {
+  height: 2.5rem;
+  width: 2.5rem;
+  border-radius: 0rem;
+}
+
+.img-logo1 {
+  height: 6rem;
+  width: 6rem;
+}
