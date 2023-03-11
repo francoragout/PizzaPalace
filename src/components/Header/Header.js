@@ -11,9 +11,9 @@ const Header = () => {
         <p>PIZZA PALACE</p>
       </div>
       <div className="header-wp bg-secondary">
-        <div className="wp-btn btn btn-dark">
-          <i className="bi bi-whatsapp"></i>
-        </div>      
+      <button type="button" class="button-wp btn btn-secondary">
+        <i className="bi bi-whatsapp"></i>
+      </button>          
       </div>    
     </div>
   )

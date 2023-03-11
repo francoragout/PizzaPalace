@@ -1,0 +1,31 @@
+.navbar {
+  height: 2.5rem;
+  display: flex;
+  padding: 0rem;
+}
+
+.navbar-home {
+  height: 2.5rem;
+  width: 2.5rem ;
+}
+
+.button-home{
+  height: 2.5rem;
+  border-radius: 0rem;
+  border-top: none;
+  border-bottom: none;
+  margin-left: 2rem;
+}
+
+.button-menu {
+  margin-right: 2rem;
+}
+
+.button-login, .button-booking, .button-info {
+  height: 2.5rem;
+  border-radius: 0rem;
+  border-top: none;
+  border-bottom: none;
+  font-family: 'Roboto Slab', serif;
+  
+}

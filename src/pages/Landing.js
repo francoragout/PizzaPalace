@@ -1,15 +1,14 @@
-import "../pages/Landing.css";
+import "./Landing.css"
 import React from 'react'
+import Navbar from "../components/Navbar/Navbar"
 
 const Landing = () => {
-  localStorage.clear();
-  
   return (
     <>
-    
+    <Navbar />
+
     </>
   )
 }
 
 export default Landing
-
