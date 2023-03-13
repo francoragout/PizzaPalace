@@ -1,6 +1,6 @@
-import "./Landing.css"
-import React from 'react'
-import Navbar from "../components/Navbar/Navbar"
+import React from 'react';
+import "./Landing.css";
+import Navbar from "../components/Navbar/Navbar";
 
 const Landing = () => {
   return (
@@ -11,4 +11,4 @@ const Landing = () => {
   )
 }
 
-export default Landing
+export default Landing;

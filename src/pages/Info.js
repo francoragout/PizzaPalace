@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Info.css";
-import Navbar from "../components/Navbar/Navbar"
+import Navbar from "../components/Navbar/Navbar";
 
 const Info = () => {
   return (
@@ -11,4 +11,4 @@ const Info = () => {
   )
 }
 
-export default Info
+export default Info;

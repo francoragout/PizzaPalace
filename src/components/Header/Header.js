@@ -1,3 +1,4 @@
+import React from "react";
 import "../Header/Header.css";
 import { images } from "../../constants/Images";
 
